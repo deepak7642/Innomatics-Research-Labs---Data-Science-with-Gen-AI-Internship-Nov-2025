@@ -24,3 +24,7 @@
      * #### **Q 1450 -**  ***[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)***
      * #### **Q 1342 -**  ***[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)***
      * #### **Q 338 -**  ***[Counting Bits](https://leetcode.com/problems/counting-bits/description/)***
+
+* **"Analysis on ML Test Scores" Task - 1 :-**
+
+    * #### **Uploaded colab notebook (solution) in this repo**
