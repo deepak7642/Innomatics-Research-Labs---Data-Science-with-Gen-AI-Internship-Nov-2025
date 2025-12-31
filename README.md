@@ -27,4 +27,4 @@
 
 * **"Analysis on ML Test Scores" Task - 1 :-**
 
-    *  **Uploaded colab notebook (solution) in this repo**
+    *  *Uploaded colab notebook (solution) in this repo*
