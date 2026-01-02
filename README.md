@@ -28,3 +28,8 @@
 * **"Analysis on ML Test Scores" Task - 1 :-**
 
     *  *Uploaded colab notebook (solution) in this repo*
+ 
+* **"Diminos Case Study" Task - 2 :-**
+
+    *  *Uploaded colab notebook (solution) in this repo*
+
