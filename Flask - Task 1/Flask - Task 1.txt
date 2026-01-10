@@ -1,0 +1,10 @@
+Innomatics Research Labs : Data Science with Gen AI Internship
+
+Below "Task 1 - Flask" done by Deepak Kaura
+
+
+Problem Statement - 
+
+Create a Flask Application that takes the user name in the query parameter from the URL and converts it to UPPER CASE and displays it on the browser.
+
+BONUS - Be a little creative and try to create some cool functions in your Flask App.
