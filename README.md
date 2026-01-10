@@ -33,3 +33,7 @@
 
     *  *Uploaded colab notebook (solution) in this repo*
 
+
+* **"Create a Flask Application" Task - 1 :-**
+
+    *  *Uploaded py file (solution) in this repo*
