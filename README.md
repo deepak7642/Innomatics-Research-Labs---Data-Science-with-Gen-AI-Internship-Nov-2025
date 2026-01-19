@@ -37,3 +37,7 @@
 * **"Create a Flask Application" Task - 1 :-**
 
     *  *Uploaded py file (solution) in this repo*
+
+* **"Backend Project 1 (Development) :-**
+
+    *  *Uploaded colab notebook (solution) in this repo*
