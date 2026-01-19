@@ -27,17 +27,22 @@
 
 * **"Analysis on ML Test Scores" Task - 1 :-**
 
-    *  *Uploaded colab notebook (solution) in this repo*
+    *  *Uploaded a folder which consist colab notebook (solution) in this repo*
  
 * **"Diminos Case Study" Task - 2 :-**
 
-    *  *Uploaded colab notebook (solution) in this repo*
+    *  *Uploaded a folder which consist colab notebook (solution) in this repo*
 
 
 * **"Create a Flask Application" Task - 1 :-**
 
-    *  *Uploaded py file (solution) in this repo*
+    *  *Uploaded a folder which consist py file (solution) in this repo*
 
 * **"Backend Project 1 (Development) :-**
 
-    *  *Uploaded colab notebook (solution) in this repo*
+    *  *Uploaded a folder which consist colab notebook (solution) in this repo*
+ 
+* **"Backend Project 2 (Debugging) :-**
+
+    *  *Uploaded a folder which consist py file + Docs (solution) in this repo*
+
