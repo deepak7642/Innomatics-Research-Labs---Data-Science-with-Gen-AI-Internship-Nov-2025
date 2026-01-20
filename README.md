@@ -38,15 +38,19 @@
 
     *  *Uploaded a folder which consist py file (solution) in this repo*
 
-* **"Backend Project 1 (Development) :-**
+* **"Backend Project 1 (Development)" :-**
 
     *  *Uploaded a folder which consist colab notebook (solution) in this repo*
  
-* **"Backend Project 2 (Debugging) :-**
+* **"Backend Project 2 (Debugging)" :-**
 
     *  *Uploaded a folder which consist py file + Docs (solution) in this repo*
 
 
-* **"Final Project (Basic Version) - URL Shortner Application :-**
+* **"Final Project (Basic Version) - URL Shortner Application" :-**
+
+    *  *Uploaded a folder which consist py file + 2 HTML files (solution) in this repo*
+
+* **"Final Project (For Advance Participants) - URL Shortner Application" :-**
 
     *  *Uploaded a folder which consist py file + 2 HTML files (solution) in this repo*
