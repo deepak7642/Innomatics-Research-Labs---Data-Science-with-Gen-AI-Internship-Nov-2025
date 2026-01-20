@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>History</title>
+</head>
+<body>
+    <h2>URL History</h2>
+
+    <ul>
+        {% for url in urls %}
+            <li>
+                {{ url.original_url }} →
+                {{ request.host_url }}{{ url.short_code }}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <br>
+    <a href="/">Back to Home</a>
+</body>
+</html>
