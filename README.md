@@ -46,3 +46,7 @@
 
     *  *Uploaded a folder which consist py file + Docs (solution) in this repo*
 
+
+* **"Final Project (Basic Version) - URL Shortner Application) :-**
+
+    *  *Uploaded a folder which consist py file + 2 HTML files (solution) in this repo*
