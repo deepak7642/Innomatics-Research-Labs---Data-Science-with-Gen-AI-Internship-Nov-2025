@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Shortener</title>
+</head>
+<body>
+
+<h2>Welcome, {{ current_user.username }}</h2>
+
+<a href="{{ url_for('logout') }}">Logout</a>
+<br><br>
+
+<form method="POST">
+    <input type="text" name="url" placeholder="Enter URL to shorten" required>
+    <br><br>
+    <button type="submit">Shorten URL</button>
+</form>
+
+{% if short_url %}
+    <p>Short URL:</p>
+    <input type="text" value="{{ short_url }}" readonly>
+{% endif %}
+
+{% if error %}
+    <p style="color:red;">{{ error }}</p>
+{% endif %}
+
+<br>
+<a href="{{ url_for('history') }}">View History</a>
+
+</body>
+</html>

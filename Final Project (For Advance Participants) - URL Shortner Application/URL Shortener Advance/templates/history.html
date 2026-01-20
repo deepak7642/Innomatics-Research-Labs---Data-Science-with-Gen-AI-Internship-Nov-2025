@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>History</title>
+</head>
+<body>
+
+<h2>Your URL History</h2>
+
+<ul>
+    {% for url in urls %}
+        <li>
+            {{ url.original_url }} →
+            {{ request.host_url }}{{ url.short_code }}
+        </li>
+    {% endfor %}
+</ul>
+
+<br>
+<a href="{{ url_for('index') }}">Back</a>
+<br><br>
+<a href="{{ url_for('logout') }}">Logout</a>
+
+</body>
+</html>
