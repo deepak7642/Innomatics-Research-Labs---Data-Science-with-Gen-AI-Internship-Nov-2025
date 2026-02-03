@@ -53,3 +53,7 @@
 * **"Final Project (For Advance Participants) - URL Shortner Application" :-**
 
     *  *Uploaded a folder which consist py file + 4 HTML files (solution) in this repo*
+
+* **"MLOps : Sentiment Analysis of Flipkart Product Reviews" :-**
+
+    *  *Uploaded a folder which consist dataset (CSV), Jupyter Notebook, Py file and Model pickle file for AWS deployment (solution) in this repo*
